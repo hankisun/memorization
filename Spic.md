@@ -50,7 +50,7 @@
 | You should keep it a secret       | 비밀 지켜야해           |
 | Keep up the good work             | 잘하고 있어 계속 수고해     |
 | Keep it up                        | 지금처럼 계속 잘 해줘  |
-| Could you keep an eye on my back? | 제 가방 좀 봐주실 수 있나요? |
+| Could you keep an eye on my bag? | 제 가방 좀 봐주실 수 있나요? |
 ### break 깨뜨리고 부수는 이미지
 
 | Eng                                                  | Kor                         |
