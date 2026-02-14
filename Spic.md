@@ -48,8 +48,8 @@
 | You should keep the promise       | 약속 지켜야해           |
 | I'm sorry to keep you waiting.    | 기다리게 해서 미안해       |
 | You should keep it a secret       | 비밀 지켜야해           |
-| Keep up the good word             | 잘하고 있어 계속 수고해     |
-| Keep it up                        |                   |
+| Keep up the good work             | 잘하고 있어 계속 수고해     |
+| Keep it up                        | 지금처럼 계속 잘 해줘  |
 | Could you keep an eye on my back? | 제 가방 좀 봐주실 수 있나요? |
 ### break 깨뜨리고 부수는 이미지
 
@@ -123,8 +123,8 @@
 | Eng                                              | Kor                 |
 | ------------------------------------------------ | ------------------- |
 | I am expecting a baby in March                   | 3월에 출산 예정이에요        |
-| I am looking forward to meeting you this weekend | 이번주 너 만나는 거 너무 기대돼! |
-| I can't wait to see you this weekend             |                     |
+| I am looking forward to meeting you this weekend | 이번주 너 만나는 거 너무 기대돼(look forward to) |
+| I can't wait to see you this weekend             | 이번주 너 만나는 거 너무 기대돼(see) |
 | He's been looking forward to being a father      | 그는 항상 아빠가 되고 싶어 했어  |
 | I didn't expect you to come today                | 네가 오늘 올 거라 생각 못했어   |
 ### break / rest
